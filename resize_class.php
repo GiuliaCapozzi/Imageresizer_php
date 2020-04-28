@@ -190,7 +190,7 @@
 			$extension = strrchr($savePath, '.');
 			$extension = strtolower($extension);
 
-			switch($extension) {
+			switch($extension) {   
 
 				case '.jpg':
 				case '.jpeg':

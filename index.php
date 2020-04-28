@@ -12,5 +12,5 @@ $resizeObj -> resizeImage(150,100,'crop');
 
 //save image 
 
-$resizeObj -> saveImage('sample-resized2.png',100);
+$resizeObj -> saveImage('sample-resized.png',100);
 ?>
